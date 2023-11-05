@@ -1,5 +1,5 @@
 # Bob Sally
-123 West 4567 North, Manhattan New York | (763) 345-7895 | [junk-email.com](mailto:junkemail@somemailserver.com)
+*123 West 4567 North, Manhattan New York | (763) 345-7895 | [junk-email.com](mailto:junkemail@somemailserver.com)*
 
 ## *SKILLS*
 - Proficient in React and other front-end frameworks
